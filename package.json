@@ -10,6 +10,7 @@
     "lint": "eslint src/**/*.ts",
     "seed": "ts-node src/scripts/seedData.ts",
     "import-users": "ts-node src/scripts/importUsersFromExcel.ts",
+    "update-passwords": "ts-node src/scripts/updatePasswordsFromExcel.ts",
     "seed-admin": "ts-node src/scripts/seedAdmin.ts"
   },
   "keywords": [
