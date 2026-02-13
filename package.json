@@ -11,6 +11,7 @@
     "seed": "ts-node src/scripts/seedData.ts",
     "import-users": "ts-node src/scripts/importUsersFromExcel.ts",
     "update-passwords": "ts-node src/scripts/updatePasswordsFromExcel.ts",
+    "create-users": "ts-node src/scripts/createUsersFromExcel.ts",
     "seed-admin": "ts-node src/scripts/seedAdmin.ts"
   },
   "keywords": [
